@@ -1,0 +1,1 @@
+console.log("skripta 3 ucitana");
